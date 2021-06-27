@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation_OrgHrm]">
+  <test thread-count="5" name="MDFW(failed)">
+    <classes>
+      <class name="com.orgHrm.TestScripts.TC2">
+        <methods>
+          <include name="EmpCreation"/>
+        </methods>
+      </class> <!-- com.orgHrm.TestScripts.TC2 -->
+    </classes>
+  </test> <!-- MDFW(failed) -->
+</suite> <!-- Failed suite [Automation_OrgHrm] -->

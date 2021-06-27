@@ -1,0 +1,7 @@
+<suite name="Automation_OrgHrm">
+	<test name="MDFW">
+	 	<packages>
+	 		<package name="com.orgHrm.TestScripts"/>
+	 	</packages>
+	</test>	
+</suite>

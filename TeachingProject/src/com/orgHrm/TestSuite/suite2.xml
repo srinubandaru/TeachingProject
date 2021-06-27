@@ -1,0 +1,8 @@
+<suite name="Automation_OrgHrm">
+	<test name="MDFW">
+	 	<classes>
+	 		<class name="com.orgHrm.TestScripts.TC1"/>
+	 		<class name="com.orgHrm.TestScripts.TC2"/>
+	 	</classes>
+	</test>	
+</suite>
